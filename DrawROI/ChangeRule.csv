@@ -1,0 +1,10 @@
+SLine,0
+SRectangle,1
+SCircle,2
+SCurve,3
+SPolygon,4
+TErase,0
+TTemplate,1
+ADarkField,0
+ALightField,1
+ATransField,2
